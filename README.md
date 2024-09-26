@@ -1,0 +1,2 @@
+# nvodt
+nvidia auto mate
