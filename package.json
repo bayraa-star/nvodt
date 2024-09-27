@@ -1,0 +1,30 @@
+{
+  "name": "nvodt",
+  "version": "1.0.0",
+  "description": "nvidiat",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayraa-star/nvodt.git"
+  },
+  "author": "masaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayraa-star/nvodt/issues"
+  },
+  "homepage": "https://github.com/bayraa-star/nvodt#readme"
+}
